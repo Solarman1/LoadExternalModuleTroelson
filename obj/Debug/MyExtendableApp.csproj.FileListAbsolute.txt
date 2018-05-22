@@ -1,0 +1,12 @@
+C:\Users\Sun\source\repos\MyExtendableApp\MyExtendableApp\bin\Debug\MyExtendableApp.exe.config
+C:\Users\Sun\source\repos\MyExtendableApp\MyExtendableApp\bin\Debug\MyExtendableApp.exe
+C:\Users\Sun\source\repos\MyExtendableApp\MyExtendableApp\bin\Debug\MyExtendableApp.pdb
+C:\Users\Sun\source\repos\MyExtendableApp\MyExtendableApp\bin\Debug\CommonSnappableTypes.dll
+C:\Users\Sun\source\repos\MyExtendableApp\MyExtendableApp\bin\Debug\CommonSnappableTypes.pdb
+C:\Users\Sun\source\repos\MyExtendableApp\MyExtendableApp\obj\Debug\MyExtendableApp.csprojResolveAssemblyReference.cache
+C:\Users\Sun\source\repos\MyExtendableApp\MyExtendableApp\obj\Debug\MyExtendableApp.Form1.resources
+C:\Users\Sun\source\repos\MyExtendableApp\MyExtendableApp\obj\Debug\MyExtendableApp.Properties.Resources.resources
+C:\Users\Sun\source\repos\MyExtendableApp\MyExtendableApp\obj\Debug\MyExtendableApp.csproj.GenerateResource.Cache
+C:\Users\Sun\source\repos\MyExtendableApp\MyExtendableApp\obj\Debug\MyExtendableApp.csproj.CoreCompileInputs.cache
+C:\Users\Sun\source\repos\MyExtendableApp\MyExtendableApp\obj\Debug\MyExtendableApp.exe
+C:\Users\Sun\source\repos\MyExtendableApp\MyExtendableApp\obj\Debug\MyExtendableApp.pdb
